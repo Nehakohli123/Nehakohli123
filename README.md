@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Kohli</h1>
 <h3 align="center">IT Undergrad | Full-Stack Dev | Data Visualization & Analytics</h3>
 
-<img align="right" alt="coding" width="500" src ="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif"> 
+<img align="right" alt="coding" width="500" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s"> 
 
 - 📫 How to reach me **nehakohli3003@gmail.com**
 
